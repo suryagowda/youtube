@@ -1,6 +1,6 @@
 
 
-# YouTube Shorts Clone
+# YouTube Shorts Clone - in Flutter
 
 This is a Flutter application that replicates the functionality of YouTube Shorts. It allows users to browse and play short videos.
 
